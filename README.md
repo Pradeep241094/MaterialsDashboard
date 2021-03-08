@@ -32,8 +32,8 @@ On Server Diretcory:
 
 Server will be running on port 8080.
 
-Node.js Version used: 14.16
-npm version used: 6.14.11
+Node.js Version used: v14.16
+npm version used: v6.14.11
 
 Happy Browsing the App!
 
