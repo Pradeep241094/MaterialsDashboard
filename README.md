@@ -1,4 +1,4 @@
-# Materials Dashboard
+# Smart Construction Materials Dashboard
 Materials Management Dashboard to Quickly Add the material type, calculate cost based on volume and Pick the Color of the material.
 
 Smart Construction Dashboard, which allows users to create and edit a catalog of materials, such as sand, gravel, and dirt, for construction
