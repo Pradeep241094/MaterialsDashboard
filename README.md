@@ -21,7 +21,6 @@ Clone the project from: https://github.com/Pradeep241094/MaterialsDashboard.git
 On Client Directory:
 
 # npm install
-
 # npm start
 
 Project can be accessed at: http://localhost:3000
@@ -29,7 +28,6 @@ Project can be accessed at: http://localhost:3000
 On Server Side:
 
 # npm install
-
 # npm start
 
 Server will be running on port 8080.
