@@ -25,12 +25,15 @@ On Client Directory:
 
 Project can be accessed at: http://localhost:3000
 
-On Server Side:
+On Server Diretcory:
 
 ## npm install
 ## npm start
 
 Server will be running on port 8080.
+
+Node.js Version used: 14.16
+npm version used: 6.14.11
 
 Happy Browsing the App!
 
