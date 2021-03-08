@@ -11,7 +11,8 @@ const Post = ({ post, setCurrentId }) => {
 
   return (
     <Paper>
-      <Card className={classes.root} onClick={() => setCurrentId(post._id)}>
+      <Card className={classes.root}>
+      <Card onClick={() => setCurrentId(post._id)}>
         <CardContent>
         <Grid container spacing = {6}>
        <Grid  item xs={9}>
@@ -24,10 +25,11 @@ const Post = ({ post, setCurrentId }) => {
         </Typography>
           </Grid>
           </Grid>
-          <Grid item style={{alignItems: 'right', backgroundColor: `${post.color}`, width: '18px', marginTop: '16px', height: '18px', borderRadius: '50%' }}xs={1}>
+          <Grid item style={{alignItems: 'right', backgroundColor: `${post.color}`, width: '18px', marginTop: '32px', height: '18px', borderRadius: '50%' }}xs={1}>
           </Grid>
           </Grid>
         </CardContent>
+      </Card>
       </Card>
     </Paper>
 

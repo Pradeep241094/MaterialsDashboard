@@ -69,7 +69,7 @@ const App = () => {
         Delete
       </Button>
           <Grid container justify="space-between" alignItems="stretch" spacing={3}>
-            <Grid item xs={12} sm={4}>
+            <Grid item xs={12} sm={4} style={{maxHeight: 400, overflow: 'auto'}}>
               <Posts setCurrentId={setCurrentId} />
             </Grid>
             <Grid item xs={12} sm={8}>
