@@ -8,23 +8,29 @@ projects. At a high level, this feature will:
 ● Select a material's color through a color picker
 ● Calculate and display the total value of materials listed
 
+This Application was built using MERN Stack.
+
+Frontend: React and Redux
+Backend: Node.js and Express.js 
+Database: MongoDB with Mongoose (hosted remotely over atlas cloud)
+
 Steps to Execute the Project:
 
 Clone the project from: https://github.com/Pradeep241094/MaterialsDashboard.git
 
 On Client Directory:
 
-npm install
+# npm install
 
-npm start
+# npm start
 
 Project can be accessed at: http://localhost:3000
 
 On Server Side:
 
-npm install
+# npm install
 
-npm start
+# npm start
 
 Server will be running on port 8080.
 
